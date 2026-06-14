@@ -7,6 +7,7 @@ public class Arithmatic {
 		return x+y;
 	}
 	
+	//sub method logic
 	public int sub(int x,int y) {
 		return x-y;
 	}
