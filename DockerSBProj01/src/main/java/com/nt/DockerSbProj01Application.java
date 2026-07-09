@@ -8,6 +8,7 @@ public class DockerSbProj01Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DockerSbProj01Application.class, args);
+		System.out.println("Welcome to Docker");
 	}
 
 }
