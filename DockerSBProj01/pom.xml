@@ -43,7 +43,7 @@
 	</dependencies>
 
 	<build>
-	<finalName>app1</finalName>
+	<finalName>BootApp1</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
